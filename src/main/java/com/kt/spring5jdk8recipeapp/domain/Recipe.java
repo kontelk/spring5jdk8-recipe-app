@@ -36,5 +36,4 @@ public class Recipe {
     // ----------------- Getters and Setters -------------------
 
 
-
 }
